@@ -1,6 +1,3 @@
-![HectorDevx](https://mir-s3-cdn-cf.behance.net/project_modules/fs/687e66100589735.5f17a4948a3f6.png) 
-
-
 ## Find me:
 
 * As a Designer: [Behance](https://www.behance.net/VGdiseno)
