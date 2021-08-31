@@ -6,7 +6,7 @@
 * As a Designer: [Behance](https://www.behance.net/hector-reyes)
 * As a Content Creator: [Misión Conejo Estelar](https://www.instagram.com/conejoestelar)
 * As a Student: [Platzi](https://platzi.com/@hector___reyes/)
-* As a Boring Person: [Twitter](https://twitter.com/HectorDevX)
+* As a Boring Person: [Twitter](https://twitter.com/hector_reyes_)
 * As a Cool Person with Cats: [Instagram](https://www.instagram.com/hector___reyes/)
 
 ## 🐇 About me:
