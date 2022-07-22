@@ -51,4 +51,4 @@ I'm a Frontend Developer and UI & UX Designer who is passionate about technology
 
 
 ## 📊 My stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HectorDevx)](https://github.com/HectorDevx/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hector-reyes-dev)](https://github.com/hector-reyes-dev/github-readme-stats)
