@@ -10,10 +10,10 @@
 * As a Cool Person with Cats: [Instagram](https://www.instagram.com/hector___reyes/)
 
 ## 🐇 About me:
-I'm a Frontend Developer and UI & UX Designer who is passionate about technology, development, product design, and financials. I'm great at building and designing with JavaScript, ReactJS, CSS, and Figma. I've designed more than 60 digital products. 🏆
+I'm a Frontend Developer and UI Designer who is passionate about technology, development, product design, and financials. I'm great at building and designing with JavaScript, ReactJS, Angular, TypeScript, CSS, and Figma. I've designed more than 60 digital products. 🏆
 
 🐱‍💻 I'm searching for new opportunities while building awesome personal projects.
-🥽 Now I'm learning React Native.
+🥽 Now I'm learning ThreeJS.
 🧩 Let's build something together.
 
 ## 🚀 Projects
