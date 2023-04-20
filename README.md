@@ -1,5 +1,5 @@
 # 🐇 Nice to have you here. Welcome, I'm Héctor.
-![Portada Héctor Reyes Github](https://i.ibb.co/f4NKMjJ/Portada-Github-2x.png)
+![Portada Héctor Reyes Github](https://i.ibb.co/gmMt1Y9/Portada-Github-White.jpg)
 
 ## 🛰 Find me:
 * As a Worker: [LinkedIn](https://www.linkedin.com/in/hectorreyesdev/)
@@ -18,7 +18,6 @@ I'm a Frontend Developer and UI Designer who is passionate about technology, dev
 
 ## 🚀 Projects
 * Personal Portfolio 🛠
-* Landing Page Stellar Rabbit 🛠
 * [Ofera's E-Commerce Challenge](https://hectordevx.github.io/ofera-ecommerce__challenge/)
 
 ## 💪 I'm great at
