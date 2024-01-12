@@ -17,7 +17,7 @@ I'm a Frontend Developer and UI Designer who is passionate about technology, dev
 * 🧩 Let's build something together.
 
 ## 🚀 Projects
-* Personal Portfolio 🛠
+* [Personal Portfolio](https://hectorcreative.dev/)
 * [Ofera's E-Commerce Challenge](https://hectordevx.github.io/ofera-ecommerce__challenge/)
 
 ## 💪 I'm great at
