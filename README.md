@@ -1,5 +1,5 @@
 # 🐇 Nice to have you here. Welcome, I'm Héctor.
-![Portada Héctor Reyes Github](https://i.ibb.co/gmMt1Y9/Portada-Github-White.jpg)
+![image](https://github.com/user-attachments/assets/bfc7c7b0-3da0-4bfe-93c1-31a283f1e29a)
 
 ## 🛰 Find me:
 * As a Worker: [LinkedIn](https://www.linkedin.com/in/hectorreyesdev/)
