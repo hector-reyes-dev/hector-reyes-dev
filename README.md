@@ -2,7 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/bfc7c7b0-3da0-4bfe-93c1-31a283f1e29a)
 
-I'm a Product Maker who bridges the gap between conceptual vision and technical execution. My mission is to build digital products that solve real-world problems by merging systems design, software development, and business strategy. I don't just write code; I build systems, design experiences, and take full ownership of a product's success, from the first line of code to the final user validation. My philosophy is simple: stop consuming, start creating.
+I'm a Product Maker who bridges the gap between conceptual vision and technical execution. My mission is to build digital products that solve real-world problems by merging systems design, software development, and business strategy. I don't just write code; I build systems, design experiences, and take full ownership of a product's success, from the first line of code to the final user validation. _My philosophy is simple: stop consuming, start creating._
 
 ## 📂 Featured Projects & Achievements
 <table>
@@ -58,21 +58,11 @@ My expertise is T-shaped: deep knowledge in the JavaScript ecosystem and a solid
 6. I'm always open to collaborating on innovative projects, mentoring ambitious creators, or discussing the future of technology and product design.
 7. If my vision and work resonate with you, I'd love to connect.
 
-<img width="50" height="28" alt="image" src="https://github.com/user-attachments/assets/59fdd82f-7f9b-41de-ae67-024664686404" />
-
 <p align="left">
 <a href="mailto:hector@hectorcreative.dev">▸ Email Me</a><br>
-<a href="https://www.linkedin.com/in/hectorreyesdev/" target="_blank">▸ Connect on LinkedIn</a>
+<a href="https://www.hectorcreative.dev/" target="_blank">▸ Review My Portfolio</a><br>
+<a href="https://x.com/hector_reyes_" target="_blank">▸ Let's connect on X</a><br>
+<a href="https://www.linkedin.com/in/hectorreyesdev/" target="_blank">▸ Connect on LinkedIn</a><br>
 </p>
 
-<p align="left">
-<a href="https://hectorcreative.dev/" target="blank">
-<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/458bc142-0338-4fec-8be4-94d2cd351489" />
-</a>
-<a href="https://www.linkedin.com/in/hectorreyesdev/" target="_blank">
-<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/c7ab15c9-adb5-415d-8fe4-9d1b6b3f140b" />
-</a>
-<a href="https://twitter.com/hector_reyes" target="_blank">
-<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/64af69af-23a9-4450-ba58-5b3453b1355a" />
-</a>
-</p>
+<img width="143" height="88" alt="image" src="https://github.com/user-attachments/assets/c915d5e4-3c1b-4703-b56a-9e14bfe1527a" />
