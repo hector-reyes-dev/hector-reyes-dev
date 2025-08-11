@@ -1,53 +1,78 @@
-# 🐇 Nice to have you here. Welcome, I'm Héctor.
+# Héctor Reyes | Strategic Product Maker
+
 ![image](https://github.com/user-attachments/assets/bfc7c7b0-3da0-4bfe-93c1-31a283f1e29a)
 
-## 🛰 Find me:
-* As a Worker: [LinkedIn](https://www.linkedin.com/in/hectorreyesdev/)
-* As a Designer: [Behance](https://www.behance.net/hector-reyes)
-* As a Content Creator: [Misión Conejo Estelar](https://www.instagram.com/conejoestelar)
-* As a Student: [Platzi](https://platzi.com/@hector___reyes/)
-* As a Boring Person: [Twitter](https://twitter.com/hector_reyes_)
-* As a Cool Person with Cats: [Instagram](https://www.instagram.com/hector___reyes/)
+I'm a Product Maker who bridges the gap between conceptual vision and technical execution. My mission is to build digital products that solve real-world problems by merging systems design, software development, and business strategy. I don't just write code; I build systems, design experiences, and take full ownership of a product's success, from the first line of code to the final user validation. My philosophy is simple: stop consuming, start creating.
 
-## 🐇 About me:
-I'm a Frontend Developer and UI Designer who is passionate about technology, development, product design, and financials. I'm great at building and designing with JavaScript, ReactJS, Angular, TypeScript, CSS, and Figma. I've designed more than 60 digital products. 🏆
+## 📂 Featured Projects & Achievements
+<table>
+<tr>
+<td width="50%"><a href="https://github.com/hector-reyes-dev/sparks-mobile"><img width="900" height="390" alt="image" src="https://github.com/user-attachments/assets/075b84a6-07c5-4a5a-ad2d-63e8b213e55e" /></a><br><sup><strong>Sparks</strong>: English Learning</sup>
+<td width="50%"><a href="https://www.behance.net/gallery/204468577/Ikni-List-Mobile-App-UI-Design"><img width="900" height="390" alt="image" src="https://github.com/user-attachments/assets/40199f3f-2649-4d28-a973-aefee0db2997" />
+</a><br><sup><strong>Ikni</strong>: Colaborative Shopping Lists</sup></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://github.com/hector-reyes-dev/food-mood-react-native"><img width="900" height="390" alt="image" src="https://github.com/user-attachments/assets/88d6fd9d-4464-4c4a-89d0-19e2824f1057" />
+</a><br><sup><strong>Food Mood</strong>: Recipes App</sup></td>
+<td width="50%"><a href="https://github.com/hector-reyes-dev/watchify-ecommerce"><img width="900" height="390" alt="image" src="https://github.com/user-attachments/assets/966a3c32-5386-4338-9692-b9a9a44ba4cd" />
+</a><br><sup><strong>Watchify</strong>: Netflix Merch Shop</sup></td>
+</tr>
+</table>
 
-* 🐱‍💻 I'm searching for new opportunities while building awesome personal projects.
-* 🥽 Now I'm learning ThreeJS.
-* 🧩 Let's build something together.
+## 🛠️ My Stack & Skills
+My expertise is T-shaped: deep knowledge in the JavaScript ecosystem and a solid foundation in product design, UX, and business strategy.
 
-## 🚀 Projects
-* [Personal Portfolio](https://hectorcreative.dev/)
-* [Ofera's E-Commerce Challenge](https://hectordevx.github.io/ofera-ecommerce__challenge/)
+### 🎨 Design
 
-## 💪 I'm great at
-![HTML 5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Stylus](https://img.shields.io/badge/Stylus-333333?style=for-the-badge&logo=stylus&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Apollo GraphQL](https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=for-the-badge&logo=Apollo%20GraphQL&logoColor=white)
-![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![THREE JS](https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white)
-![Storybook](	https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Todoist](https://img.shields.io/badge/Todoist-E44332?style=for-the-badge&logo=todoist&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&labelColor=0a446b&logoWidth=15)
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Affinity Designer](https://img.shields.io/badge/affinitydesginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white)
+- System & UI/UX Design: Crafting intuitive, scalable, and accessible user experiences.
+- Prototyping & Validation: From low-fidelity wireframes to high-fidelity, interactive prototypes.
+- Tools: Figma, Affinity Creative Suite, Storybook.
 
+### 💻 Development
 
-## 📊 My stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hector-reyes-dev)](https://github.com/hector-reyes-dev/github-readme-stats)
+- Frontend: React, Next.js, TypeScript, JavaScript, HTML5, CSS3, Three.js.
+- Mobile (Current Focus): React Native, SwiftUI.
+- Backend (Expanding): Node.js, PostgreSQL, GraphQL.
+- Tools & Principles: Git, CI/CD, A/B Testing, Agile Methodologies.
+
+### 🧠 Product & Leadership
+
+- Product Strategy: Defining roadmaps and making data-driven decisions to meet business goals.
+- AI Integration: Leveraging AI and LLMs to accelerate development and create smarter solutions.
+- Technical Mentorship: Empowering other creators by transforming roadblocks into actionable learnings.
+
+## ⭐ Short-Term Goals
+
+- [ ] 🚀 Launch a SaaS Product: Build and ship my first micro-SaaS application from scratch.
+- [ ] 📱 Master Mobile Development: Deepen my expertise in React Native and SwiftUI.
+- [ ] 🇬🇧 Achieve English Fluency: Speak with confidence in professional and technical settings.
+- [ ] 🤖 Explore AI Deeper: Build practical applications using advanced AI/ML models.
+
+## 🤝 How I Work
+
+1. I operate with a high-agency, results-oriented mindset. My process is built on clarity, pragmatism, and a deep respect for time—both mine and yours.
+2. Data over Assumptions: I ground every decision in user behavior metrics and continuous experimentation.
+3. Pragmatic Execution: I prioritize solutions that work and deliver tangible results quickly, without sacrificing quality.
+4. Systemic Thinking: I design for the long term, creating scalable, reusable, and well-documented systems.
+5. Clear Communication: I communicate directly and concisely, focusing on proposing actionable next steps.
+6. I'm always open to collaborating on innovative projects, mentoring ambitious creators, or discussing the future of technology and product design.
+7. If my vision and work resonate with you, I'd love to connect.
+
+<img width="50" height="28" alt="image" src="https://github.com/user-attachments/assets/59fdd82f-7f9b-41de-ae67-024664686404" />
+
+<p align="left">
+<a href="mailto:hector@hectorcreative.dev">▸ Email Me</a><br>
+<a href="https://www.linkedin.com/in/hectorreyesdev/" target="_blank">▸ Connect on LinkedIn</a>
+</p>
+
+<p align="left">
+<a href="https://hectorcreative.dev/" target="blank">
+<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/458bc142-0338-4fec-8be4-94d2cd351489" />
+</a>
+<a href="https://www.linkedin.com/in/hectorreyesdev/" target="_blank">
+<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/c7ab15c9-adb5-415d-8fe4-9d1b6b3f140b" />
+</a>
+<a href="https://twitter.com/hector_reyes" target="_blank">
+<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/64af69af-23a9-4450-ba58-5b3453b1355a" />
+</a>
+</p>
